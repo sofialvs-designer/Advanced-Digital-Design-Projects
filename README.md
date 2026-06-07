@@ -11,7 +11,7 @@ A collection of advanced digital systems and hardware architectures designed in 
 
 Here you can find the individual laboratories and academic projects:
 
-### 1. [Down Counter Controller (Contador Descendente)](./Down-Counter-VHDL)
+### 1. [Down Counter Controller (Contador Descendente)](./Down-Counter-SV)
 * **Description:** Implementation of an optimized synchronous down counter with generic bit-width.
 * **Key Components:** Finite State Machines (FSM), clock dividers, and segment display control.
 * **Status:** Finished & Verified via Testbench.
@@ -20,3 +20,4 @@ Here you can find the individual laboratories and academic projects:
 * **Description:** Digital controller designed to interface with an Analog-to-Digital Converter (ADC) for real-time data acquisition.
 * **Key Components:** Serial-to-Parallel conversion, SPI protocol integration, and state-driven control.
 * **Status:** Finished & Synthesized.
+* **VIDEO:** https://youtu.be/aykOfBdNK-Y?si=M2QVuXqqsznr4EHi
