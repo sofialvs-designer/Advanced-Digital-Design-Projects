@@ -15,7 +15,7 @@ Here you can find the individual laboratories and academic projects:
 * **Description:** Implementation of an optimized synchronous down counter with generic bit-width.
 * **Key Components:** Finite State Machines (FSM), clock dividers, and segment display control.
 * **Status:** Finished & Verified via Testbench.
-
+* **VIDEO:** https://youtu.be/ZCMsUKDJXg0
 ### 2. [ADC Interface Controller (Controlador de ADC)](./ADC-Interface-Controller)
 * **Description:** Digital controller designed to interface with an Analog-to-Digital Converter (ADC) for real-time data acquisition.
 * **Key Components:** Serial-to-Parallel conversion, SPI protocol integration, and state-driven control.
